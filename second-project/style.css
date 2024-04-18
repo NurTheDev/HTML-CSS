@@ -48,4 +48,50 @@ body{
     font-size: 48px;
     font-weight: 700;
     text-align: center;
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.third-section{
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px;
+    color: white;
+    font-family: Merriweather;
+    
+}
+.third-gradiant{
+    background-image: linear-gradient(to right, black, transparent);
+    display: flex;
+    height: 100%;
+    gap: 100px;
+    border-radius: 20px;
+}
+.left-des-heading{
+    width: 642px;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7px;
+    margin-top: 126px;
+    margin-left: 126px;
+}
+.left-pera-des{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    width: 697px;
+    margin-left: 126px;
+}
+.right-img{
+    margin-top: 77px;
+}
+.btn1{
+    color: white;
+    margin-left: 160px;
+    background: none;
+    border: none;
 }
