@@ -126,3 +126,97 @@ span{
     border-radius: 8px;
     margin-top: 48px;
 }
+.coming-soon{
+    display: flex;
+    gap: 118px;
+    width: 1320px;
+    margin: 50px 140px;
+    align-items: center;
+}
+.new-best{
+    color: #f00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+.coming{
+    font-size: 60px;
+    font-weight: 900;
+    color: #070211;
+    text-align: center;
+    font-family: merriwather;
+    margin: 16px;
+}
+.coming-des{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.60);
+    width: 395px;
+}
+.img-coming{
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 50px;
+    border: 20px solid red;
+}
+.year{
+    color: #f00;
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+
+}
+.holidays{
+    width: 1320px;
+    margin: 50px 140px;
+    text-align: center;
+}
+.funtional{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 100px;
+}
+.holdays50{
+    font-size: 72px;
+    font-family: meriweather;
+    font-weight: 900;
+    margin: 0;
+}
+.red{
+    color: #f00;
+}
+.holidays-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+}
+.img-sec{
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+.test{
+    float: right;
+    margin-bottom: -5px;
+}
+.gift-box{
+    position: absolute;
+    left: 50px;
+    bottom: 0px;
+    box-sizing: border-box;
+    width: 600px;
+    margin: 0;
+    padding: 0;
+}
+.discount50{
+    position: absolute;
+    top: 80px;
+    left: 700px;
+}
+.red-bar{
+    margin: 0;
+    padding: 0;
+}
