@@ -220,3 +220,82 @@ span{
     margin: 0;
     padding: 0;
 }
+.gift{
+    margin: 50px 140px;
+    width: 1320px;
+}
+.gift-img{
+    box-sizing: border-box;
+}
+.coulmn{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+.coulmn > img{
+    width: 390px;
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.best-gift{
+    padding: 0;
+}
+.red-line{
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+.gift-heading{
+    font-size: 50px;
+    font-weight: 900;
+    margin: 0;
+    font-family: merriweather;
+}
+.gift-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+.subscribe-container{
+    text-align: center;
+    padding: 120px;
+    width: 1320;
+    margin: 50px 140px;
+}
+.subscribe{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: merriweather;
+    margin: 0;
+}
+.sub-des{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+}
+.input-cont{
+    /* width: 648px;
+    height: 72px; */
+    border-radius: 50px;
+}
+
+.input-email{
+    border: none;
+    padding: 10px;
+    font-size: 22px;
+}
+.btn3{
+    background-color: #f00;
+    padding: 24px;
+    color: #fff;
+    border-radius: 0px 50px 50px 0px;
+    width: 230px;
+    font-size: 22px;
+    font-weight: 600;
+    border: none;
+    margin: 10px;
+}
